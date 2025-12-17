@@ -1,3 +1,7 @@
-- SQLAlchemy
-- psycopg2-binary
-- python-dotenv
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+fastapi
+uvicorn[standard]
+alembic
+pydantic
